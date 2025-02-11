@@ -1,0 +1,6 @@
+.box-model{
+    background-color: rgb(21, 255, 0);
+    margin: 10px;
+    border: solid 5px rgb(255, 200, 0);
+    padding: 20px;
+}
