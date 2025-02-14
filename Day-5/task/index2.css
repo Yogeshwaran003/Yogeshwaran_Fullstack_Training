@@ -1,0 +1,9 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    background-color: darkblue;
+}
+.container img{
+    border-radius: 50%;
+    margin: 30px;
+}
