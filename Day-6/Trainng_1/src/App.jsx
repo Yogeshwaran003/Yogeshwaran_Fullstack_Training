@@ -1,11 +1,11 @@
-import Name from './components/Name.jsx'
+import Input from './components/Input'
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <Name name="Yogeshwaran"/>
+      <Input/>
     </>
   )
 }
